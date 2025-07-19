@@ -1,5 +1,5 @@
 # Soccer-Reid
-
+# LInk to [Colab File ](https://colab.research.google.com/drive/1YqqyEKJZAJqipJq2hXsjVtxMvBtpwQnA?usp=sharing).
 An end-to-end solution to consistently identify soccer players across two camera feeds (“broadcast” and “tacticam”) using:
 
 1. **Object Detection & Tracking** (YOLOv11 + DeepSORT)  
