@@ -28,4 +28,5 @@ An end-to-end solution to consistently identify soccer players across two camera
   - Configurable confidence thresholds and parameters  
   - Easily swap models or integrate additional cues (jersey OCR, homography, etc.)
 
----
+## How to set up
+- Note : this was done in Google colab and the colab file for this has been shared . The necessary files are shared in the drive .
